@@ -1,12 +1,12 @@
 <AppUpdater>
-  <update>
-    <latestVersion>1.0.2</latestVersion>
-    <latestVersionCode>11</latestVersionCode>
-    <url>https://github.com/javiersantos/AppUpdater/releases</url>
+  <atualização>
+    <latestVersion> 1.2.2 </ latestVersion>
+    <lastVersionCode> 10 </ latestVersionCode>
+    <url> https://github.com/javiersantos/AppUpdater/releases </ url>
     <releaseNotes>
-- First evolution
-- Second evolution
-- Bug fixes
-    </releaseNotes>
-  </update>
-</AppUpdater>
+- Primeira evolução
+- Segunda evolução
+- Correções de erros
+    </ releaseNotes>
+  </ update>
+</ AppUpdater>
