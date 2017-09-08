@@ -1,0 +1,10 @@
+{
+  "LatestVersion": "1.2.2",
+  "LastVersionCode": "10",
+  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "releaseNotes": [
+    "- Primeira evolução",
+    "- Segunda evolução",
+    "- Bug corrige"
+  ]
+}
