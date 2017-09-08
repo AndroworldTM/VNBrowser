@@ -1,0 +1,12 @@
+<AppUpdater>
+	<update>
+		<latestVersion>1.0.1</latestVersion>
+		<latestVersionCode>10</latestVersionCode>
+		<url>https://www.androworldtm.tk/VNBrowser2.apk</url>
+		<releaseNotes
+			 - Melhorias de desenpenho
+			 - Novas funções
+			 - Correção de bugs
+		</releaseNotes>
+	</update>
+</AppUpdater>
